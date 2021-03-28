@@ -52,7 +52,7 @@
     "chalk": "^2.1.0",
     "diff": "^3.4.0",
     "loglevel": "^1.5.1",
-    "shelljs": "^0.7.8",
+    "shelljs": "^0.8.4",
     "shelljs.exec": "^1.1.7"
   },
   "devDependencies": {
